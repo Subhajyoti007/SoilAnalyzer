@@ -1,5 +1,5 @@
 # SoilAnalyzer
-### By Subhodeep Sarkar
+### By Subhajyoti Mondal
 #### IoT device for real-time soil analysis and monitoring using machine learning
 
 *Final Semester Major Project for the completion award of PG Degree 'Master of Computer Application' 2023*
